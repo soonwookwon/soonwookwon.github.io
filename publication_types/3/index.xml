@@ -5,7 +5,7 @@
     <link>https://soonwookwon.github.io/publication_types/3/</link>
       <atom:link href="https://soonwookwon.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Soonwoo Kwon </copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Soonwoo Kwon </copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://soonwookwon.github.io/img/icon-192.png</url>
       <title>3</title>
@@ -13,20 +13,21 @@
     </image>
     
     <item>
-      <title>An example working paper</title>
-      <link>https://soonwookwon.github.io/publication/working-paper-example/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://soonwookwon.github.io/publication/working-paper-example/</guid>
+      <title>Optimal Shrinkage Estimation of Fixed Effects in Linear Panel Data Models</title>
+      <link>https://soonwookwon.github.io/publication/jmp/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://soonwookwon.github.io/publication/jmp/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example working paper</title>
-      <link>https://soonwookwon.github.io/publication/example-wp/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://soonwookwon.github.io/publication/example-wp/</guid>
+      <title>Inference in Moment Inequality Models That Is Robust to Spurious Precision under Model Misspecification</title>
+      <link>https://soonwookwon.github.io/publication/ak_2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://soonwookwon.github.io/publication/ak_2019/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;

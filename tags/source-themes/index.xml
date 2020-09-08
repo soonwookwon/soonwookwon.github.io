@@ -5,7 +5,7 @@
     <link>https://soonwookwon.github.io/tags/source-themes/</link>
       <atom:link href="https://soonwookwon.github.io/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Soonwoo Kwon </copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Soonwoo Kwon </copyright><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://soonwookwon.github.io/img/icon-192.png</url>
       <title>Source Themes</title>
@@ -13,20 +13,10 @@
     </image>
     
     <item>
-      <title>An example working paper</title>
-      <link>https://soonwookwon.github.io/publication/working-paper-example/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://soonwookwon.github.io/publication/working-paper-example/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://soonwookwon.github.io/publication/example-journal/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://soonwookwon.github.io/publication/example-journal/</guid>
+      <title>The Identification Power Of Smoothness Assumptions In Models With Counterfactual Outcomes</title>
+      <link>https://soonwookwon.github.io/publication/kkkl_2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://soonwookwon.github.io/publication/kkkl_2018/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
@@ -34,10 +24,10 @@
     </item>
     
     <item>
-      <title>An example working paper</title>
-      <link>https://soonwookwon.github.io/publication/example-wp/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://soonwookwon.github.io/publication/example-wp/</guid>
+      <title>International Trends in Technological Progress: Evidence from Patent Citations, 1980–2011</title>
+      <link>https://soonwookwon.github.io/publication/kll_2017/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://soonwookwon.github.io/publication/kll_2017/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
