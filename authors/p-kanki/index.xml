@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P Kanki | Soonwoo Kwon</title>
+    <link>https://soonwookwon.github.io/authors/p-kanki/</link>
+      <atom:link href="https://soonwookwon.github.io/authors/p-kanki/index.xml" rel="self" type="application/rss+xml" />
+    <description>P Kanki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Soonwoo Kwon </copyright><lastBuildDate>Tue, 28 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://soonwookwon.github.io/img/icon-192.png</url>
+      <title>P Kanki</title>
+      <link>https://soonwookwon.github.io/authors/p-kanki/</link>
+    </image>
+    
+    <item>
+      <title>On Partial Identification of the Natural Indirect Effect</title>
+      <link>https://soonwookwon.github.io/publication/example/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://soonwookwon.github.io/publication/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
