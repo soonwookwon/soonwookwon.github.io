@@ -5,20 +5,12 @@
     <link>https://soonwookwon.github.io/</link>
       <atom:link href="https://soonwookwon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Soonwoo Kwon</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Soonwoo Kwon </copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Soonwoo Kwon </copyright><lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://soonwookwon.github.io/img/icon-192.png</url>
       <title>Soonwoo Kwon</title>
       <link>https://soonwookwon.github.io/</link>
     </image>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://soonwookwon.github.io/talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://soonwookwon.github.io/talk/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Publications</title>
@@ -29,38 +21,6 @@
 &lt;li&gt;Hi!&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://soonwookwon.github.io/post/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://soonwookwon.github.io/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Courses</title>
-      <link>https://soonwookwon.github.io/courses/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://soonwookwon.github.io/courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://soonwookwon.github.io/slides/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://soonwookwon.github.io/slides/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://soonwookwon.github.io/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://soonwookwon.github.io/project/</guid>
-      <description></description>
     </item>
     
   </channel>
