@@ -1,124 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://soonwookwon.github.io/authors/admin/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://soonwookwon.github.io/publication_types/3/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://soonwookwon.github.io/authors/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://soonwookwon.github.io/publication/jmp/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://soonwookwon.github.io/publication_types/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://soonwookwon.github.io/publication/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://soonwookwon.github.io/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://soonwookwon.github.io/publication/akk_regreg_2020/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soonwookwon.github.io/publication/kk_rdd_2020/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soonwookwon.github.io/authors/koohyun-kwon/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soonwookwon.github.io/authors/michal-kolesar/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soonwookwon.github.io/authors/timothy-armstrong/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soonwookwon.github.io/publication/kk_aimn_2020/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soonwookwon.github.io/authors/donald-andrews/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soonwookwon.github.io/publication/ak_2019/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soonwookwon.github.io/publication_types/2/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soonwookwon.github.io/authors/sokbae-lee/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soonwookwon.github.io/tags/source-themes/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soonwookwon.github.io/tags/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soonwookwon.github.io/publication/kkkl_2018/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soonwookwon.github.io/authors/wooyoung-kim/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soonwookwon.github.io/publication/kll_2017/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soonwookwon.github.io/authors/jihong-lee/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soonwookwon.github.io/categories/</loc>
   </url>
-  
 </urlset>
