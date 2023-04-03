@@ -5,7 +5,7 @@
     <link>https://soonwookwon.github.io/authors/</link>
       <atom:link href="https://soonwookwon.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Soonwoo Kwon </copyright><lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Soonwoo Kwon </copyright><lastBuildDate>Sun, 29 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://soonwookwon.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,16 +15,24 @@
     <item>
       <title></title>
       <link>https://soonwookwon.github.io/authors/admin/</link>
-      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://soonwookwon.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+      <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;I am an Assistant Professor of Economics at Brown University.&lt;/p&gt;
 &lt;p&gt;My research interests are in econometric theory and applied
 econometrics. I am particularly interested in robust methods, broadly defined.&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt;You can find my CV &lt;a href=&#34;files/Soonwoo_Kwon_CV.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can find my CV &lt;a href=&#34;files/Soonwoo_Kwon_CV_Jan2023.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Contact: &lt;a href=&#34;mailto:soonwoo_kwon@brown.edu&#34;&gt;soonwoo_kwon@brown.edu&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Donald Andrews</title>
+      <link>https://soonwookwon.github.io/authors/donald-andrews/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://soonwookwon.github.io/authors/donald-andrews/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -48,14 +56,6 @@ econometrics. I am particularly interested in robust methods, broadly defined.&l
       <link>https://soonwookwon.github.io/authors/timothy-armstrong/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://soonwookwon.github.io/authors/timothy-armstrong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Donald Andrews</title>
-      <link>https://soonwookwon.github.io/authors/donald-andrews/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://soonwookwon.github.io/authors/donald-andrews/</guid>
       <description></description>
     </item>
     
