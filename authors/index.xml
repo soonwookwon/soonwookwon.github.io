@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Soonwoo Kwon</title>
+    <link>https://soonwookwon.github.io/authors/</link>
+      <atom:link href="https://soonwookwon.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Soonwoo Kwon </copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://soonwookwon.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://soonwookwon.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://soonwookwon.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://soonwookwon.github.io/authors/admin/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;I am an Assistant Professor of Economics at Brown University.&lt;/p&gt;
+&lt;p&gt;My research interests are in econometric theory and applied
+econometrics. I am particularly interested in robust methods, broadly defined.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;You can find my CV &lt;a href=&#34;files/Soonwoo_Kwon_CV_Jan2024.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Contact: &lt;a href=&#34;mailto:soonwoo_kwon@brown.edu&#34;&gt;soonwoo_kwon@brown.edu&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Donald Andrews</title>
+      <link>https://soonwookwon.github.io/authors/donald-andrews/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://soonwookwon.github.io/authors/donald-andrews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michal Kolesár</title>
+      <link>https://soonwookwon.github.io/authors/michal-kolesar/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://soonwookwon.github.io/authors/michal-kolesar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timothy Armstrong</title>
+      <link>https://soonwookwon.github.io/authors/timothy-armstrong/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://soonwookwon.github.io/authors/timothy-armstrong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Koohyun Kwon</title>
+      <link>https://soonwookwon.github.io/authors/koohyun-kwon/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://soonwookwon.github.io/authors/koohyun-kwon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sokbae Lee</title>
+      <link>https://soonwookwon.github.io/authors/sokbae-lee/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://soonwookwon.github.io/authors/sokbae-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wooyoung Kim</title>
+      <link>https://soonwookwon.github.io/authors/wooyoung-kim/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://soonwookwon.github.io/authors/wooyoung-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jihong Lee</title>
+      <link>https://soonwookwon.github.io/authors/jihong-lee/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://soonwookwon.github.io/authors/jihong-lee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
