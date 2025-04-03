@@ -5,7 +5,7 @@
     <link>https://soonwookwon.github.io/</link>
       <atom:link href="https://soonwookwon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Soonwoo Kwon</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Soonwoo Kwon </copyright><lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Soonwoo Kwon </copyright><lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://soonwookwon.github.io/img/icon-192.png</url>
       <title>Soonwoo Kwon</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Publications</title>
       <link>https://soonwookwon.github.io/publication/</link>
-      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://soonwookwon.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authors</title>
+      <link>https://soonwookwon.github.io/authors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://soonwookwon.github.io/authors/</guid>
       <description></description>
     </item>
     
